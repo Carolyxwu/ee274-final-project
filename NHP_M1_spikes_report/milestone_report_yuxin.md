@@ -2,7 +2,7 @@
 
 This dataset includes the intracortical spike data collected from the motor cortex of a male rhesus macaque by a 96-electrode Utah array. The data was collected during a stereotyped reaching task in 13 consecutive days (3 pre-lesion days -3, -2, and -1; 10 post-lesion days from day 0 to day 9). On day 0, small electrolytic lesions were performed through the array in the motor cortex. 
 
-In this session, we perform loseless compressors like zstd and gzip on the dataset to test if the compression rate is a good indicator of the brain lesion.
+In this session, we perform lossless compressors like zstd and gzip on the dataset to test if the compression rate is a good indicator of the brain lesion.
 
 ![Alt text](image.png)
 
