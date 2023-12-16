@@ -37,6 +37,9 @@ The codes for the mouse dataset analysis can be found at [ketamine](ketamine).
 
 The codes for the zebrafish dataset analysis can be found at [Fish_spinal_cord_imaging](Fish_spinal_cord_imaging). Examples of how to run the codes can be found in [main.ipynb](Fish_spinal_cord_imaging/main.ipynb). The codes for generating the figures can be found in [plots.ipynb](Fish_spinal_cord_imaging/plots.ipynb).
 
+## Project Report
+
+The project report can be found at [here](https://drive.google.com/file/d/1_TsoPetPZEXa9ZDKCPXvtNDwEh22UZDl/view?usp=sharing) or [here](EE_274_Project_Final_Report.pdf).
 
 ## References:
 [1] Yamada, L., Nuyujukian, P. H., Nishimura, D. G., Weissman, T. A compression-enabled approach to analyze seizures for people with refractory epilepsy. Stanford University. 2023
