@@ -33,7 +33,7 @@ The final dataset is a calcium imaging dataset for ablation experiments in the z
 
 The codes for the NHP dataset analysis can be found at [NHP_M1_spikes](NHP_M1_spikes). Examples of how to run the codes can be found in [main.ipynb](NHP_M1_spikes/main.ipynb). The codes for generating the figures can be found in [plots.ipynb](NHP_M1_spikes/plots.ipynb).
 
-The codes for the mouse dataset analysis can be found at [ketamine](ketamine).
+The codes for the mouse dataset analysis can be found at [ketamine](ketamine). To run this code, simply execute the python file in a directory with the specified datasets, downloadable at the link above.
 
 The codes for the zebrafish dataset analysis can be found at [Fish_spinal_cord_imaging](Fish_spinal_cord_imaging). Examples of how to run the codes can be found in [main.ipynb](Fish_spinal_cord_imaging/main.ipynb). The codes for generating the figures can be found in [plots.ipynb](Fish_spinal_cord_imaging/plots.ipynb).
 
